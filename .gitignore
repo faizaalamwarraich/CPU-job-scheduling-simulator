@@ -1,0 +1,14 @@
+#ignore input.php file
+input.php
+
+#ignore buffers
+buffer/
+
+#ignoring all files related to previous release
+*.php
+include/
+js/
+target/
+obj/
+Makefile
+index.html
